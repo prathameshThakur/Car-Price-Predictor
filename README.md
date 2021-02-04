@@ -1,4 +1,5 @@
- <p align="center"> 
+[![Already deployed version](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/hr.svg)](https://price-predictions.herokuapp.com/)
+<p align="center"> 
     <img src="https://raw.githubusercontent.com/prathameshThakur/Streamlit-Car-Price-Prediction/master/website.PNG" alt="Website image">
  </p>
 <br>
