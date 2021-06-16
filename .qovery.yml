@@ -1,0 +1,15 @@
+---
+application:
+  name: "car-price-predictor"
+  project: "sapcartt"
+  organization: "QoveryCommunity"
+databases:
+- type: "POSTGRESQL"
+  name: "my-database"
+  version: "12"
+routers:
+- name: "main-car-price-predictor"
+  routes:
+  - application_name: "car-price-predictor"
+    paths:
+    - "/*"
